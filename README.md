@@ -4,6 +4,8 @@
 
 As instruções são destinada para pessoas que já possuem experiência prévia na ferramenta Power BI, por isso o passo a passo é voltado diretamente para a solução.
 
+O arquivo GIF é meramente ilustração de como deve funcionar no Power BI.
+
 ```
 
 Passos:
